@@ -1,4 +1,4 @@
-name: 'screenshot-website'
+name: 'screenshot-website-2'
 description: 'Capture screenshot of a website'
 inputs:
   source:
